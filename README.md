@@ -41,11 +41,11 @@ I'm a passionate Full-Stack Developer with expertise in the MERN stack. I transf
 ## 🛠️ Technology Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" height="50" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" height="50" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="70" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" height="70" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="70" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="70" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="70" />
 </div>
 
 ## 🌟 Featured Projects
@@ -138,7 +138,7 @@ Want to discuss a project or collaboration? Reach out to me!
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=developerabhi02&label=Profile+Views&color=blueviolet" alt="Profile Views" />
   <br />
-  <a href="https://www.buymeacoffee.com/abhishekgupta" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </div> 
