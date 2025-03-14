@@ -107,71 +107,84 @@ I'm a passionate Full-Stack Developer specializing in the MERN stack. I love bui
 | 🧪 Testing | ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) |
 | 📱 Mobile | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
 
-<div style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); padding: 30px; border-radius: 15px; margin: 30px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-  <h2 align="center" style="color: #f5f5f5; margin-bottom: 30px; font-size: 2.5rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+<!-- Featured Projects Section with Enhanced Design -->
+<div align="center">
+  <h2>
     <img src="https://em-content.zobj.net/thumbs/120/apple/325/sparkles_2728.png" width="30px" style="vertical-align: middle; margin-right: 10px;">
-    Featured Projects
+    <span style="background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Featured Projects</span>
   </h2>
+</div>
 
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin-top: 20px;">
-    <!-- Project 1 -->
-    <div style="background: rgba(255,255,255,0.05); border-radius: 12px; overflow: hidden; transition: transform 0.3s ease; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
-      <a href="https://password-manager-v2-1.onrender.com/login" target="_blank" style="text-decoration: none; color: inherit;">
-        <div style="position: relative; overflow: hidden; border-radius: 12px 12px 0 0;">
-          <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/project1.png" width="100%" alt="Pass-X Password Manager - Secure credential management application" style="transition: transform 0.5s ease;" />
-          <div style="position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,0.6); color: white; padding: 5px 10px; border-radius: 20px; font-size: 12px;">MERN Stack</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin: 40px 0;">
+  <!-- Project 1 -->
+  <div style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 16px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.3); transition: all 0.3s ease; border: 1px solid rgba(255,255,255,0.1);">
+    <a href="https://password-manager-v2-1.onrender.com/login" target="_blank" style="text-decoration: none; color: inherit;">
+      <div style="position: relative; overflow: hidden;">
+        <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/project1.png" width="100%" alt="Pass-X Password Manager - Secure credential management application" style="transition: transform 0.5s ease; height: 200px; object-fit: cover;" />
+        <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: linear-gradient(to bottom, rgba(0,0,0,0) 70%, rgba(0,0,0,0.8) 100%);"></div>
+        <div style="position: absolute; top: 15px; right: 15px; background: rgba(97, 218, 251, 0.2); backdrop-filter: blur(5px); color: #61DAFB; padding: 8px 15px; border-radius: 30px; font-size: 14px; font-weight: bold; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">MERN Stack</div>
+      </div>
+      <div style="padding: 25px;">
+        <h3 style="color: #ffffff; margin-top: 0; font-size: 22px; letter-spacing: 0.5px;">Pass-X Password Manager</h3>
+        <p style="color: #b8b8b8; font-size: 15px; line-height: 1.6;">A secure password management application with end-to-end encryption, intuitive UI, and cross-device synchronization.</p>
+        <div style="margin-top: 20px; display: flex; flex-wrap: wrap; gap: 8px;">
+          <span style="background: rgba(97, 218, 251, 0.15); color: #61DAFB; padding: 5px 12px; border-radius: 20px; font-size: 13px; backdrop-filter: blur(5px);">React</span>
+          <span style="background: rgba(104, 160, 99, 0.15); color: #68A063; padding: 5px 12px; border-radius: 20px; font-size: 13px; backdrop-filter: blur(5px);">Node.js</span>
+          <span style="background: rgba(71, 162, 72, 0.15); color: #47A248; padding: 5px 12px; border-radius: 20px; font-size: 13px; backdrop-filter: blur(5px);">MongoDB</span>
+          <span style="background: rgba(255, 87, 68, 0.15); color: #FF5744; padding: 5px 12px; border-radius: 20px; font-size: 13px; backdrop-filter: blur(5px);">JWT</span>
         </div>
-        <div style="padding: 20px;">
-          <h3 style="color: #f5f5f5; margin-top: 0;">Pass-X Password Manager</h3>
-          <p style="color: #ccc; font-size: 14px;">A secure password management application with end-to-end encryption, intuitive UI, and cross-device synchronization.</p>
-          <div style="margin-top: 15px; display: flex; flex-wrap: wrap; gap: 5px;">
-            <span style="background: #61DAFB33; color: #61DAFB; padding: 3px 8px; border-radius: 4px; font-size: 12px;">React</span>
-            <span style="background: #68A06333; color: #68A063; padding: 3px 8px; border-radius: 4px; font-size: 12px;">Node.js</span>
-            <span style="background: #47A24833; color: #47A248; padding: 3px 8px; border-radius: 4px; font-size: 12px;">MongoDB</span>
-            <span style="background: #FF574433; color: #FF5744; padding: 3px 8px; border-radius: 4px; font-size: 12px;">JWT</span>
-          </div>
+        <div style="margin-top: 25px;">
+          <span style="display: inline-block; background: linear-gradient(90deg, #00c6ff, #0072ff); color: white; padding: 8px 20px; border-radius: 30px; font-size: 14px; font-weight: bold; box-shadow: 0 4px 15px rgba(0,114,255,0.3); transition: all 0.3s ease;">View Project</span>
         </div>
-      </a>
-    </div>
+      </div>
+    </a>
+  </div>
 
-    <!-- Project 2 -->
-    <div style="background: rgba(255,255,255,0.05); border-radius: 12px; overflow: hidden; transition: transform 0.3s ease; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
-      <a href="https://celebrated-sprinkles-05c8f0.netlify.app/" target="_blank" style="text-decoration: none; color: inherit;">
-        <div style="position: relative; overflow: hidden; border-radius: 12px 12px 0 0;">
-          <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/project2.png" width="100%" alt="AgeCalcPro - Bilingual age calculator application" style="transition: transform 0.5s ease;" />
-          <div style="position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,0.6); color: white; padding: 5px 10px; border-radius: 20px; font-size: 12px;">React</div>
+  <!-- Project 2 -->
+  <div style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 16px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.3); transition: all 0.3s ease; border: 1px solid rgba(255,255,255,0.1);">
+    <a href="https://celebrated-sprinkles-05c8f0.netlify.app/" target="_blank" style="text-decoration: none; color: inherit;">
+      <div style="position: relative; overflow: hidden;">
+        <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/project2.png" width="100%" alt="AgeCalcPro - Bilingual age calculator application" style="transition: transform 0.5s ease; height: 200px; object-fit: cover;" />
+        <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: linear-gradient(to bottom, rgba(0,0,0,0) 70%, rgba(0,0,0,0.8) 100%);"></div>
+        <div style="position: absolute; top: 15px; right: 15px; background: rgba(97, 218, 251, 0.2); backdrop-filter: blur(5px); color: #61DAFB; padding: 8px 15px; border-radius: 30px; font-size: 14px; font-weight: bold; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">React</div>
+      </div>
+      <div style="padding: 25px;">
+        <h3 style="color: #ffffff; margin-top: 0; font-size: 22px; letter-spacing: 0.5px;">AgeCalcPro - Age Calculator</h3>
+        <p style="color: #b8b8b8; font-size: 15px; line-height: 1.6;">A sleek age calculator with bilingual support, precise calculations, and a clean, responsive design for all devices.</p>
+        <div style="margin-top: 20px; display: flex; flex-wrap: wrap; gap: 8px;">
+          <span style="background: rgba(97, 218, 251, 0.15); color: #61DAFB; padding: 5px 12px; border-radius: 20px; font-size: 13px; backdrop-filter: blur(5px);">React</span>
+          <span style="background: rgba(227, 79, 38, 0.15); color: #E34F26; padding: 5px 12px; border-radius: 20px; font-size: 13px; backdrop-filter: blur(5px);">HTML5</span>
+          <span style="background: rgba(21, 114, 182, 0.15); color: #1572B6; padding: 5px 12px; border-radius: 20px; font-size: 13px; backdrop-filter: blur(5px);">CSS3</span>
+          <span style="background: rgba(247, 223, 30, 0.15); color: #F7DF1E; padding: 5px 12px; border-radius: 20px; font-size: 13px; backdrop-filter: blur(5px);">JavaScript</span>
         </div>
-        <div style="padding: 20px;">
-          <h3 style="color: #f5f5f5; margin-top: 0;">AgeCalcPro - Age Calculator</h3>
-          <p style="color: #ccc; font-size: 14px;">A sleek age calculator with bilingual support, precise calculations, and a clean, responsive design for all devices.</p>
-          <div style="margin-top: 15px; display: flex; flex-wrap: wrap; gap: 5px;">
-            <span style="background: #61DAFB33; color: #61DAFB; padding: 3px 8px; border-radius: 4px; font-size: 12px;">React</span>
-            <span style="background: #E34F2633; color: #E34F26; padding: 3px 8px; border-radius: 4px; font-size: 12px;">HTML5</span>
-            <span style="background: #1572B633; color: #1572B6; padding: 3px 8px; border-radius: 4px; font-size: 12px;">CSS3</span>
-            <span style="background: #F7DF1E33; color: #F7DF1E; padding: 3px 8px; border-radius: 4px; font-size: 12px;">JavaScript</span>
-          </div>
+        <div style="margin-top: 25px;">
+          <span style="display: inline-block; background: linear-gradient(90deg, #00c6ff, #0072ff); color: white; padding: 8px 20px; border-radius: 30px; font-size: 14px; font-weight: bold; box-shadow: 0 4px 15px rgba(0,114,255,0.3); transition: all 0.3s ease;">View Project</span>
         </div>
-      </a>
-    </div>
+      </div>
+    </a>
+  </div>
 
-    <!-- Project 3 -->
-    <div style="background: rgba(255,255,255,0.05); border-radius: 12px; overflow: hidden; transition: transform 0.3s ease; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
-      <a href="https://regal-liger-1b7b7c.netlify.app/" target="_blank" style="text-decoration: none; color: inherit;">
-        <div style="position: relative; overflow: hidden; border-radius: 12px 12px 0 0;">
-          <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/project3.png" width="100%" alt="KaryaPath - Task management application" style="transition: transform 0.5s ease;" />
-          <div style="position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,0.6); color: white; padding: 5px 10px; border-radius: 20px; font-size: 12px;">React</div>
+  <!-- Project 3 -->
+  <div style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 16px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.3); transition: all 0.3s ease; border: 1px solid rgba(255,255,255,0.1);">
+    <a href="https://regal-liger-1b7b7c.netlify.app/" target="_blank" style="text-decoration: none; color: inherit;">
+      <div style="position: relative; overflow: hidden;">
+        <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/project3.png" width="100%" alt="KaryaPath - Task management application" style="transition: transform 0.5s ease; height: 200px; object-fit: cover;" />
+        <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: linear-gradient(to bottom, rgba(0,0,0,0) 70%, rgba(0,0,0,0.8) 100%);"></div>
+        <div style="position: absolute; top: 15px; right: 15px; background: rgba(97, 218, 251, 0.2); backdrop-filter: blur(5px); color: #61DAFB; padding: 8px 15px; border-radius: 30px; font-size: 14px; font-weight: bold; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">React</div>
+      </div>
+      <div style="padding: 25px;">
+        <h3 style="color: #ffffff; margin-top: 0; font-size: 22px; letter-spacing: 0.5px;">KaryaPath - To-Do List</h3>
+        <p style="color: #b8b8b8; font-size: 15px; line-height: 1.6;">A productivity tool for task management with categorization, tracking, and responsive design using local storage.</p>
+        <div style="margin-top: 20px; display: flex; flex-wrap: wrap; gap: 8px;">
+          <span style="background: rgba(97, 218, 251, 0.15); color: #61DAFB; padding: 5px 12px; border-radius: 20px; font-size: 13px; backdrop-filter: blur(5px);">React</span>
+          <span style="background: rgba(21, 114, 182, 0.15); color: #1572B6; padding: 5px 12px; border-radius: 20px; font-size: 13px; backdrop-filter: blur(5px);">CSS3</span>
+          <span style="background: rgba(247, 223, 30, 0.15); color: #F7DF1E; padding: 5px 12px; border-radius: 20px; font-size: 13px; backdrop-filter: blur(5px);">LocalStorage</span>
         </div>
-        <div style="padding: 20px;">
-          <h3 style="color: #f5f5f5; margin-top: 0;">KaryaPath - To-Do List</h3>
-          <p style="color: #ccc; font-size: 14px;">A productivity tool for task management with categorization, tracking, and responsive design using local storage.</p>
-          <div style="margin-top: 15px; display: flex; flex-wrap: wrap; gap: 5px;">
-            <span style="background: #61DAFB33; color: #61DAFB; padding: 3px 8px; border-radius: 4px; font-size: 12px;">React</span>
-            <span style="background: #1572B633; color: #1572B6; padding: 3px 8px; border-radius: 4px; font-size: 12px;">CSS3</span>
-            <span style="background: #F7DF1E33; color: #F7DF1E; padding: 3px 8px; border-radius: 4px; font-size: 12px;">LocalStorage</span>
-          </div>
+        <div style="margin-top: 25px;">
+          <span style="display: inline-block; background: linear-gradient(90deg, #00c6ff, #0072ff); color: white; padding: 8px 20px; border-radius: 30px; font-size: 14px; font-weight: bold; box-shadow: 0 4px 15px rgba(0,114,255,0.3); transition: all 0.3s ease;">View Project</span>
         </div>
-      </a>
-    </div>
+      </div>
+    </a>
   </div>
 </div>
 
