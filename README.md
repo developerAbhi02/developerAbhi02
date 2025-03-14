@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=800&lines=Hi+👋+I'm+Abhishek+Kumar+Gupta;A+Passionate+MERN+Stack+Developer;Building+Innovative+Web+Solutions;Let's+Create+Something+Amazing+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=800&lines=Hi+👋+I'm+Abhishek+Kumar+Gupta;A+Passionate+MERN+Stack+Developer;Building+Innovative+Web+Solutions;Let's+Create;Something+Amazing+Together!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,16 +17,16 @@
 
 <div align="center" style="margin: 20px 0;">
   <a href="https://abhiportfolio-developerabhi02s-projects.vercel.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-FF5722?style=for-the-badge&logo=browser&logoColor=white" alt="Portfolio" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-FF5722?style=for-the-badge&logo=browser&logoColor=white" target ="" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/developerabhi02/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target ="" alt="LinkedIn" />
   </a>
   <a href="mailto:dr.abhi8928@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target ="" alt="Email" />
   </a>
   <a href="https://github.com/developerabhi02" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-1F2328?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-1F2328?style=for-the-badge&logo=github&logoColor=white" target ="" alt="GitHub" />
   </a>
 </div>
 
@@ -57,7 +57,7 @@
   </div>
 </div>
 
-<h2 align="center" style="color: #2F81F7; margin: 40px 0 20px;">🛠️ Technology Arsenal</h2>
+<h2 align="center" display="flex" style="color: #2F81F7; margin: 40px 0 20px;">🛠️ Technology Arsenal</h2>
 
 <div style="background: linear-gradient(120deg, #1a1b27, #2a2c3e); padding: 30px; border-radius: 20px; margin: 20px 0;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; align-items: center;">
