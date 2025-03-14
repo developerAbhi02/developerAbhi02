@@ -2,40 +2,40 @@
 # This configuration file is for automated responses and labeling
 
 # Automatic labels for new issues
-# Useful for design-related issues
+# Useful for project-related issues
 labels:
-  - name: "Design"
+  - name: "UI/UX"
     color: "FF61F6"
-    description: "Related to design development or updates"
+    description: "Related to user interface or experience"
   
-  - name: "UI-Improvement"
+  - name: "Frontend"
     color: "F24E1E" 
-    description: "Proposal for UI improvements"
+    description: "Related to frontend development"
   
-  - name: "UX-Improvement"
+  - name: "Backend"
     color: "0077B5"
-    description: "Proposal for user experience improvements"
+    description: "Related to backend functionality"
   
-  - name: "Animation"
+  - name: "Enhancement"
     color: "FFDD00"
-    description: "Animation and motion design"
+    description: "Feature enhancement or improvement"
   
-  - name: "Mobile-Responsive"
+  - name: "Responsive"
     color: "7DCDA3"
-    description: "Related to mobile responsiveness"
+    description: "Related to responsive design"
 
 # Welcome message for new contributors
 firstPR:
   message: >
-    Hello! 👋 Thank you for contributing to my design project! 
-    Your design contribution is very valuable. I will review your proposal soon.
-    Please use this time to ensure your proposal includes necessary screenshots or prototypes.
+    Hello! 👋 Thank you for contributing to my project! 
+    Your contribution is very valuable. I will review your proposal soon.
+    Please ensure your PR includes necessary documentation and testing.
 
 # Automatic response on new issues
 newIssue:
   message: >
-    Thank you for your feedback! 🎨 As a designer, I value your thoughts on visuals and user experience.
-    Please add any screenshots or reference designs that might help understand your suggestion.
+    Thank you for your feedback! 🚀 I value your thoughts on improving this project.
+    Please add any screenshots or details that might help understand your suggestion better.
 
 # Configuration for profile statistics
 # For use with GitHub README stats

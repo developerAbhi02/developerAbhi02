@@ -34,7 +34,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 8
           
-      # Pinned repositories for design projects
+      # Pinned repositories for projects
       - name: Pinned Projects
         uses: lowlighter/metrics@latest
         with:
@@ -42,13 +42,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           template: repository
-          repo: your-featured-design-repo
+          repo: developerabhi02/password-manager
           plugin_lines: yes
           plugin_followup: yes
           plugin_projects: yes
           plugin_projects_limit: 4
           
-      # Design related activities
+      # Development related activities
       - name: Activity Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -61,18 +61,14 @@ jobs:
           plugin_achievements_display: detailed
           plugin_achievements_threshold: B      
           
-      # Design social media from Behance and Dribbble
-      - name: Design Social Media
+      # Social media activity
+      - name: Social Media
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.social.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-          plugin_tweets_user: your-twitter-username
-          plugin_tweets_limit: 2
           plugin_stackoverflow: yes
-          plugin_stackoverflow_user: your-stackoverflow-id
+          plugin_stackoverflow_user: 12345678
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 2 
