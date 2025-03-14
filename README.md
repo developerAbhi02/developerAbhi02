@@ -9,7 +9,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-kumar-gupta)
 </div>
 
-## 🎨 Designer | UI/UX Specialist | Creative Coder
+## 🎨 FULL STACK DEVELOPER  | UI/UX Specialist | REACT.JS/NODE.JS
 
 > *"Design is not just what it looks like and feels like. Design is how it works."*
 
@@ -89,7 +89,7 @@ graph LR
 Want to discuss a project or collaboration? Reach out to me!
 
 📧 Email: dr.abhi8928@gmail.com
-💬 Discord: abhishek_gupta
+💬 Discord: developerabhi02
 
 ---
 
