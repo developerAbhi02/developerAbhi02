@@ -1,12 +1,14 @@
 # <div align="center">
-  <h1>
-    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px">
-    <span style="background: linear-gradient(to right, #4C84FF, #00C6FB); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 40px; font-weight: 800;">Abhishek Kumar Gupta</span>
-  </h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="65" height="65" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=4C84FF&center=true&vCenter=true&random=false&width=800&height=80&lines=Hi+there!+I'm+Abhishek;MERN+Stack+Developer;Building+Digital+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <div style="background: linear-gradient(to right, #4C84FF, #00C6FB); padding: 20px; border-radius: 16px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.2);">
+    <h1 style="font-size: 42px; font-weight: 800; color: white; margin: 0; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3);">Abhishek Kumar Gupta</h1>
+    <p style="color: white; font-size: 20px; margin-top: 10px;">MERN Stack Developer</p>
+  </div>
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=4C84FF&center=true&vCenter=true&random=false&width=800&height=80&lines=Building+Digital+Experiences;Turning+Ideas+Into+Reality;Creating+Innovative+Web+Solutions" alt="Typing SVG" />
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="800">
 </div>
 
 <div align="center">
@@ -25,16 +27,16 @@
 </div>
 
 <div align="center" style="margin: 30px 0; background: rgba(76, 132, 255, 0.1); padding: 20px; border-radius: 20px; display: inline-block;">
-  <a href="https://abhiportfolio-developerabhi02s-projects.vercel.app/" onclick="window.open(this.href, '_blank'); return false;" style="text-decoration: none; margin: 0 10px;">
+  <a href="https://abhiportfolio-developerabhi02s-projects.vercel.app/" target="_blank" style="text-decoration: none; margin: 0 10px;">
     <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-FF5722?style=for-the-badge&logo=browser&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/developerabhi02/" onclick="window.open(this.href, '_blank'); return false;" style="text-decoration: none; margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/developerabhi02/" target="_blank" style="text-decoration: none; margin: 0 10px;">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:dr.abhi8928@gmail.com" onclick="window.open(this.href, '_blank'); return false;" style="text-decoration: none; margin: 0 10px;">
+  <a href="mailto:dr.abhi8928@gmail.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
     <img src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/developerabhi02" onclick="window.open(this.href, '_blank'); return false;" style="text-decoration: none; margin: 0 10px;">
+  <a href="https://github.com/developerabhi02" target="_blank" style="text-decoration: none; margin: 0 10px;">
     <img src="https://custom-icon-badges.demolab.com/badge/GitHub-1F2328?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -92,27 +94,27 @@
 <div style="background: linear-gradient(135deg, #1E293B, #334155); padding: 35px; border-radius: 20px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; align-items: center;">
     <!-- MongoDB -->
-    <div style="text-align: center; transition: transform 0.3s ease; animation: float 3s infinite alternate; flex: 0 0 auto; background: rgba(76, 132, 255, 0.05); padding: 20px; border-radius: 15px; width: 120px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+    <div style="text-align: center; transition: transform 0.3s ease; flex: 0 0 auto; background: rgba(76, 132, 255, 0.05); padding: 20px; border-radius: 15px; width: 120px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
       <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" style="filter: drop-shadow(0 0 8px rgba(76, 132, 255, 0.5));" />
       <p style="color: #E2E8F0; margin-top: 15px; font-weight: bold; font-family: 'Poppins', sans-serif;">MongoDB</p>
     </div>
     <!-- Express -->
-    <div style="text-align: center; transition: transform 0.3s ease; animation: float 3s infinite alternate 0.2s; flex: 0 0 auto; background: rgba(76, 132, 255, 0.05); padding: 20px; border-radius: 15px; width: 120px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+    <div style="text-align: center; transition: transform 0.3s ease; flex: 0 0 auto; background: rgba(76, 132, 255, 0.05); padding: 20px; border-radius: 15px; width: 120px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
       <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" style="filter: drop-shadow(0 0 8px rgba(76, 132, 255, 0.5));" />
       <p style="color: #E2E8F0; margin-top: 15px; font-weight: bold; font-family: 'Poppins', sans-serif;">Express</p>
     </div>
     <!-- React -->
-    <div style="text-align: center; transition: transform 0.3s ease; animation: float 3s infinite alternate 0.4s; flex: 0 0 auto; background: rgba(76, 132, 255, 0.05); padding: 20px; border-radius: 15px; width: 120px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+    <div style="text-align: center; transition: transform 0.3s ease; flex: 0 0 auto; background: rgba(76, 132, 255, 0.05); padding: 20px; border-radius: 15px; width: 120px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
       <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" style="filter: drop-shadow(0 0 8px rgba(76, 132, 255, 0.5));" />
       <p style="color: #E2E8F0; margin-top: 15px; font-weight: bold; font-family: 'Poppins', sans-serif;">React</p>
     </div>
     <!-- Node.js -->
-    <div style="text-align: center; transition: transform 0.3s ease; animation: float 3s infinite alternate 0.6s; flex: 0 0 auto; background: rgba(76, 132, 255, 0.05); padding: 20px; border-radius: 15px; width: 120px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+    <div style="text-align: center; transition: transform 0.3s ease; flex: 0 0 auto; background: rgba(76, 132, 255, 0.05); padding: 20px; border-radius: 15px; width: 120px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" style="filter: drop-shadow(0 0 8px rgba(76, 132, 255, 0.5));" />
       <p style="color: #E2E8F0; margin-top: 15px; font-weight: bold; font-family: 'Poppins', sans-serif;">Node.js</p>
     </div>
     <!-- JavaScript -->
-    <div style="text-align: center; transition: transform 0.3s ease; animation: float 3s infinite alternate 0.8s; flex: 0 0 auto; background: rgba(76, 132, 255, 0.05); padding: 20px; border-radius: 15px; width: 120px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+    <div style="text-align: center; transition: transform 0.3s ease; flex: 0 0 auto; background: rgba(76, 132, 255, 0.05); padding: 20px; border-radius: 15px; width: 120px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
       <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" style="filter: drop-shadow(0 0 8px rgba(76, 132, 255, 0.5));" />
       <p style="color: #E2E8F0; margin-top: 15px; font-weight: bold; font-family: 'Poppins', sans-serif;">JavaScript</p>
     </div>
@@ -141,14 +143,14 @@
     <div class="ribbon" style="position: absolute; top: 20px; right: -35px; background: #4C84FF; color: white; padding: 5px 40px; transform: rotate(45deg); z-index: 1; font-size: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
       MERN Stack
     </div>
-    <a href="https://password-manager-v2-1.onrender.com/login" onclick="window.open(this.href, '_blank'); return false;" style="text-decoration: none;">
+    <a href="https://password-manager-v2-1.onrender.com/login" target="_blank" style="text-decoration: none;">
       <div style="position: relative;">
         <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/passx.png" width="100%" style="height: 180px; object-fit: cover; object-position: top;" alt="Pass-X Password Manager"/>
         <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(30, 41, 59, 0.95), transparent); height: 100%;"></div>
       </div>
     </a>
     <div style="padding: 25px;">
-      <a href="https://password-manager-v2-1.onrender.com/login" onclick="window.open(this.href, '_blank'); return false;" style="text-decoration: none;">
+      <a href="https://password-manager-v2-1.onrender.com/login" target="_blank" style="text-decoration: none;">
         <h3 style="color: #4C84FF; font-size: 22px; margin: 0 0 15px; font-family: 'Poppins', sans-serif;">Pass-X Password Manager</h3>
       </a>
       <p style="color: #E2E8F0; font-size: 15px; line-height: 1.6; margin-bottom: 20px; min-height: 70px;">
@@ -159,7 +161,7 @@
         <span style="background: rgba(76, 132, 255, 0.1); color: #4C84FF; padding: 5px 15px; border-radius: 20px; font-size: 13px; font-family: 'Poppins', sans-serif;">Node.js</span>
         <span style="background: rgba(76, 132, 255, 0.1); color: #4C84FF; padding: 5px 15px; border-radius: 20px; font-size: 13px; font-family: 'Poppins', sans-serif;">MongoDB</span>
       </div>
-      <a href="https://password-manager-v2-1.onrender.com/login" onclick="window.open(this.href, '_blank'); return false;" style="text-decoration: none;">
+      <a href="https://password-manager-v2-1.onrender.com/login" target="_blank" style="text-decoration: none;">
         <div style="width: 100%; padding: 12px; border: none; border-radius: 10px; background: linear-gradient(45deg, #4C84FF, #0052D4); color: white; font-weight: bold; text-align: center; cursor: pointer; transition: all 0.3s ease; font-family: 'Poppins', sans-serif;">
           View Project →
         </div>
@@ -172,14 +174,14 @@
     <div class="ribbon" style="position: absolute; top: 20px; right: -35px; background: #4C84FF; color: white; padding: 5px 40px; transform: rotate(45deg); z-index: 1; font-size: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
       React
     </div>
-    <a href="https://celebrated-sprinkles-05c8f0.netlify.app/" onclick="window.open(this.href, '_blank'); return false;" style="text-decoration: none;">
+    <a href="https://celebrated-sprinkles-05c8f0.netlify.app/" target="_blank" style="text-decoration: none;">
       <div style="position: relative;">
         <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/agecalcpro.png" width="100%" style="height: 180px; object-fit: cover; object-position: top;" alt="AgeCalcPro"/>
         <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(30, 41, 59, 0.95), transparent); height: 100%;"></div>
       </div>
     </a>
     <div style="padding: 25px;">
-      <a href="https://celebrated-sprinkles-05c8f0.netlify.app/" onclick="window.open(this.href, '_blank'); return false;" style="text-decoration: none;">
+      <a href="https://celebrated-sprinkles-05c8f0.netlify.app/" target="_blank" style="text-decoration: none;">
         <h3 style="color: #4C84FF; font-size: 22px; margin: 0 0 15px; font-family: 'Poppins', sans-serif;">AgeCalcPro</h3>
       </a>
       <p style="color: #E2E8F0; font-size: 15px; line-height: 1.6; margin-bottom: 20px; min-height: 70px;">
@@ -190,7 +192,7 @@
         <span style="background: rgba(76, 132, 255, 0.1); color: #4C84FF; padding: 5px 15px; border-radius: 20px; font-size: 13px; font-family: 'Poppins', sans-serif;">JavaScript</span>
         <span style="background: rgba(76, 132, 255, 0.1); color: #4C84FF; padding: 5px 15px; border-radius: 20px; font-size: 13px; font-family: 'Poppins', sans-serif;">CSS3</span>
       </div>
-      <a href="https://celebrated-sprinkles-05c8f0.netlify.app/" onclick="window.open(this.href, '_blank'); return false;" style="text-decoration: none;">
+      <a href="https://celebrated-sprinkles-05c8f0.netlify.app/" target="_blank" style="text-decoration: none;">
         <div style="width: 100%; padding: 12px; border: none; border-radius: 10px; background: linear-gradient(45deg, #4C84FF, #0052D4); color: white; font-weight: bold; text-align: center; cursor: pointer; transition: all 0.3s ease; font-family: 'Poppins', sans-serif;">
           View Project →
         </div>
@@ -203,14 +205,14 @@
     <div class="ribbon" style="position: absolute; top: 20px; right: -35px; background: #4C84FF; color: white; padding: 5px 40px; transform: rotate(45deg); z-index: 1; font-size: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
       React
     </div>
-    <a href="https://regal-liger-1b7b7c.netlify.app/" onclick="window.open(this.href, '_blank'); return false;" style="text-decoration: none;">
+    <a href="https://regal-liger-1b7b7c.netlify.app/" target="_blank" style="text-decoration: none;">
       <div style="position: relative;">
         <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/karyapath.png" width="100%" style="height: 180px; object-fit: cover; object-position: top;" alt="KaryaPath"/>
         <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(30, 41, 59, 0.95), transparent); height: 100%;"></div>
       </div>
     </a>
     <div style="padding: 25px;">
-      <a href="https://regal-liger-1b7b7c.netlify.app/" onclick="window.open(this.href, '_blank'); return false;" style="text-decoration: none;">
+      <a href="https://regal-liger-1b7b7c.netlify.app/" target="_blank" style="text-decoration: none;">
         <h3 style="color: #4C84FF; font-size: 22px; margin: 0 0 15px; font-family: 'Poppins', sans-serif;">KaryaPath</h3>
       </a>
       <p style="color: #E2E8F0; font-size: 15px; line-height: 1.6; margin-bottom: 20px; min-height: 70px;">
@@ -221,7 +223,7 @@
         <span style="background: rgba(76, 132, 255, 0.1); color: #4C84FF; padding: 5px 15px; border-radius: 20px; font-size: 13px; font-family: 'Poppins', sans-serif;">LocalStorage</span>
         <span style="background: rgba(76, 132, 255, 0.1); color: #4C84FF; padding: 5px 15px; border-radius: 20px; font-size: 13px; font-family: 'Poppins', sans-serif;">CSS3</span>
       </div>
-      <a href="https://regal-liger-1b7b7c.netlify.app/" onclick="window.open(this.href, '_blank'); return false;" style="text-decoration: none;">
+      <a href="https://regal-liger-1b7b7c.netlify.app/" target="_blank" style="text-decoration: none;">
         <div style="width: 100%; padding: 12px; border: none; border-radius: 10px; background: linear-gradient(45deg, #4C84FF, #0052D4); color: white; font-weight: bold; text-align: center; cursor: pointer; transition: all 0.3s ease; font-family: 'Poppins', sans-serif;">
           View Project →
         </div>
