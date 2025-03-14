@@ -1,6 +1,6 @@
 # <div align="center">
-  <div style="background: linear-gradient(to right, #4C84FF, #00C6FB); padding: 10px; border-radius: 15px; margin-bottom: 20px; display: inline-block;">
-    <span style="font-size: 32px; font-weight: bold; color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">👋 Hi there, I'm Abhishek Kumar Gupta</span>
+  <div style="background: linear-gradient(to right, #4C84FF, #00C6FB); padding: 15px; border-radius: 15px; margin-bottom: 20px; display: inline-block;">
+    <span style="font-size: 40px; font-weight: 800; color: white; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4);">👋 Hi there, I'm Abhishek Kumar Gupta</span>
   </div>
 </div>
 
@@ -84,35 +84,46 @@
   <span style="position: absolute; bottom: -5px; left: 0; width: 100%; height: 3px; background: linear-gradient(to right, transparent, #4C84FF, transparent);"></span>
 </h2>
 
-<div style="background: #0D1117; padding: 20px; border-radius: 20px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
-  <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 0; align-items: center;">
+<div style="background: linear-gradient(135deg, #1E293B, #334155); padding: 35px; border-radius: 20px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; align-items: center;">
     <!-- MongoDB -->
-    <div style="text-align: center; padding: 15px; border-right: 1px solid #1E293B;">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="70" height="70" alt="MongoDB" />
-      <p style="color: #E2E8F0; margin-top: 10px; font-family: 'Poppins', sans-serif;">MongoDB</p>
+    <div style="text-align: center; transition: transform 0.3s ease; animation: float 3s infinite alternate; flex: 0 0 auto; background: rgba(76, 132, 255, 0.05); padding: 20px; border-radius: 15px; width: 120px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" style="filter: drop-shadow(0 0 8px rgba(76, 132, 255, 0.5));" />
+      <p style="color: #E2E8F0; margin-top: 15px; font-weight: bold; font-family: 'Poppins', sans-serif;">MongoDB</p>
     </div>
     <!-- Express -->
-    <div style="text-align: center; padding: 15px; border-right: 1px solid #1E293B;">
-      <img src="https://skillicons.dev/icons?i=express" width="70" height="70" alt="Express" />
-      <p style="color: #E2E8F0; margin-top: 10px; font-family: 'Poppins', sans-serif;">Express</p>
+    <div style="text-align: center; transition: transform 0.3s ease; animation: float 3s infinite alternate 0.2s; flex: 0 0 auto; background: rgba(76, 132, 255, 0.05); padding: 20px; border-radius: 15px; width: 120px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+      <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" style="filter: drop-shadow(0 0 8px rgba(76, 132, 255, 0.5));" />
+      <p style="color: #E2E8F0; margin-top: 15px; font-weight: bold; font-family: 'Poppins', sans-serif;">Express</p>
     </div>
     <!-- React -->
-    <div style="text-align: center; padding: 15px; border-right: 1px solid #1E293B;">
-      <img src="https://skillicons.dev/icons?i=react" width="70" height="70" alt="React" />
-      <p style="color: #E2E8F0; margin-top: 10px; font-family: 'Poppins', sans-serif;">React</p>
+    <div style="text-align: center; transition: transform 0.3s ease; animation: float 3s infinite alternate 0.4s; flex: 0 0 auto; background: rgba(76, 132, 255, 0.05); padding: 20px; border-radius: 15px; width: 120px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" style="filter: drop-shadow(0 0 8px rgba(76, 132, 255, 0.5));" />
+      <p style="color: #E2E8F0; margin-top: 15px; font-weight: bold; font-family: 'Poppins', sans-serif;">React</p>
     </div>
     <!-- Node.js -->
-    <div style="text-align: center; padding: 15px; border-right: 1px solid #1E293B;">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="70" height="70" alt="Node.js" />
-      <p style="color: #E2E8F0; margin-top: 10px; font-family: 'Poppins', sans-serif;">Node.js</p>
+    <div style="text-align: center; transition: transform 0.3s ease; animation: float 3s infinite alternate 0.6s; flex: 0 0 auto; background: rgba(76, 132, 255, 0.05); padding: 20px; border-radius: 15px; width: 120px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" style="filter: drop-shadow(0 0 8px rgba(76, 132, 255, 0.5));" />
+      <p style="color: #E2E8F0; margin-top: 15px; font-weight: bold; font-family: 'Poppins', sans-serif;">Node.js</p>
     </div>
     <!-- JavaScript -->
-    <div style="text-align: center; padding: 15px;">
-      <img src="https://skillicons.dev/icons?i=js" width="70" height="70" alt="JavaScript" />
-      <p style="color: #E2E8F0; margin-top: 10px; font-family: 'Poppins', sans-serif;">JavaScript</p>
+    <div style="text-align: center; transition: transform 0.3s ease; animation: float 3s infinite alternate 0.8s; flex: 0 0 auto; background: rgba(76, 132, 255, 0.05); padding: 20px; border-radius: 15px; width: 120px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+      <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" style="filter: drop-shadow(0 0 8px rgba(76, 132, 255, 0.5));" />
+      <p style="color: #E2E8F0; margin-top: 15px; font-weight: bold; font-family: 'Poppins', sans-serif;">JavaScript</p>
     </div>
   </div>
 </div>
+
+<style>
+@keyframes float {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-10px);
+  }
+}
+</style>
 
 <h2 align="center" style="color: #4C84FF; margin: 40px 0 20px; font-family: 'Poppins', sans-serif; position: relative; display: inline-block;">
   🌟 Featured Projects
