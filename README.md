@@ -16,16 +16,16 @@
 </div>
 
 <div align="center" style="margin: 20px 0;">
-  <a href="https://abhiportfolio-developerabhi02s-projects.vercel.app/" target="_blank" style="text-decoration: none; margin: 0 10px;">
+  <a href="https://abhiportfolio-developerabhi02s-projects.vercel.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin: 0 10px;">
     <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-FF5722?style=for-the-badge&logo=browser&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/developerabhi02/" target="_blank" style="text-decoration: none; margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/developerabhi02/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin: 0 10px;">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:dr.abhi8928@gmail.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
+  <a href="mailto:dr.abhi8928@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin: 0 10px;">
     <img src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/developerabhi02" target="_blank" style="text-decoration: none; margin: 0 10px;">
+  <a href="https://github.com/developerabhi02" target="_blank" rel="noopener noreferrer" style="text-decoration: none; margin: 0 10px;">
     <img src="https://custom-icon-badges.demolab.com/badge/GitHub-1F2328?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -60,29 +60,29 @@
 <h2 align="center" style="color: #2F81F7; margin: 40px 0 20px;">🛠️ Technology Arsenal</h2>
 
 <div style="background: linear-gradient(120deg, #1a1b27, #2a2c3e); padding: 30px; border-radius: 20px; margin: 20px 0;">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 25px; justify-items: center;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; align-items: center;">
     <!-- JavaScript -->
-    <div style="text-align: center; transition: transform 0.3s;">
+    <div style="text-align: center; transition: transform 0.3s; flex: 0 0 auto;">
       <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" style="filter: drop-shadow(0 0 10px rgba(47, 129, 247, 0.3));" />
       <p style="color: #2F81F7; margin-top: 10px; font-weight: bold;">JavaScript</p>
     </div>
     <!-- React -->
-    <div style="text-align: center; transition: transform 0.3s;">
+    <div style="text-align: center; transition: transform 0.3s; flex: 0 0 auto;">
       <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" style="filter: drop-shadow(0 0 10px rgba(47, 129, 247, 0.3));" />
       <p style="color: #2F81F7; margin-top: 10px; font-weight: bold;">React</p>
     </div>
     <!-- Node.js -->
-    <div style="text-align: center; transition: transform 0.3s;">
+    <div style="text-align: center; transition: transform 0.3s; flex: 0 0 auto;">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" style="filter: drop-shadow(0 0 10px rgba(47, 129, 247, 0.3));" />
       <p style="color: #2F81F7; margin-top: 10px; font-weight: bold;">Node.js</p>
     </div>
     <!-- MongoDB -->
-    <div style="text-align: center; transition: transform 0.3s;">
+    <div style="text-align: center; transition: transform 0.3s; flex: 0 0 auto;">
       <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" style="filter: drop-shadow(0 0 10px rgba(47, 129, 247, 0.3));" />
       <p style="color: #2F81F7; margin-top: 10px; font-weight: bold;">MongoDB</p>
     </div>
     <!-- Express -->
-    <div style="text-align: center; transition: transform 0.3s;">
+    <div style="text-align: center; transition: transform 0.3s; flex: 0 0 auto;">
       <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" style="filter: drop-shadow(0 0 10px rgba(47, 129, 247, 0.3));" />
       <p style="color: #2F81F7; margin-top: 10px; font-weight: bold;">Express</p>
     </div>
@@ -97,9 +97,9 @@
     <div class="ribbon" style="position: absolute; top: 20px; right: -35px; background: #2F81F7; color: white; padding: 5px 40px; transform: rotate(45deg); z-index: 1; font-size: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
       MERN Stack
     </div>
-    <a href="https://password-manager-v2-1.onrender.com/login" target="_blank" style="text-decoration: none;">
+    <a href="https://password-manager-v2-1.onrender.com/login" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
       <div style="position: relative;">
-        <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/project1.png" width="100%" style="height: 200px; object-fit: cover;" alt="Pass-X Password Manager"/>
+        <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/passx.png" width="100%" style="height: 200px; object-fit: cover;" alt="Pass-X Password Manager"/>
         <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(26,27,39,0.9), transparent); height: 100%;"></div>
       </div>
       <div style="padding: 25px;">
@@ -124,9 +124,9 @@
     <div class="ribbon" style="position: absolute; top: 20px; right: -35px; background: #2F81F7; color: white; padding: 5px 40px; transform: rotate(45deg); z-index: 1; font-size: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
       React
     </div>
-    <a href="https://celebrated-sprinkles-05c8f0.netlify.app/" target="_blank" style="text-decoration: none;">
+    <a href="https://celebrated-sprinkles-05c8f0.netlify.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
       <div style="position: relative;">
-        <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/project2.png" width="100%" style="height: 200px; object-fit: cover;" alt="AgeCalcPro"/>
+        <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/agecalcpro.png" width="100%" style="height: 200px; object-fit: cover;" alt="AgeCalcPro"/>
         <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(26,27,39,0.9), transparent); height: 100%;"></div>
       </div>
       <div style="padding: 25px;">
@@ -151,9 +151,9 @@
     <div class="ribbon" style="position: absolute; top: 20px; right: -35px; background: #2F81F7; color: white; padding: 5px 40px; transform: rotate(45deg); z-index: 1; font-size: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
       React
     </div>
-    <a href="https://regal-liger-1b7b7c.netlify.app/" target="_blank" style="text-decoration: none;">
+    <a href="https://regal-liger-1b7b7c.netlify.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
       <div style="position: relative;">
-        <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/project3.png" width="100%" style="height: 200px; object-fit: cover;" alt="KaryaPath"/>
+        <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/karyapath.png" width="100%" style="height: 200px; object-fit: cover;" alt="KaryaPath"/>
         <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(26,27,39,0.9), transparent); height: 100%;"></div>
       </div>
       <div style="padding: 25px;">
