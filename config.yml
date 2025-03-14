@@ -1,0 +1,55 @@
+# Configuration for GitHub Profile
+# This configuration file is for automated responses and labeling
+
+# Automatic labels for new issues
+# Useful for design-related issues
+labels:
+  - name: "Design"
+    color: "FF61F6"
+    description: "Related to design development or updates"
+  
+  - name: "UI-Improvement"
+    color: "F24E1E" 
+    description: "Proposal for UI improvements"
+  
+  - name: "UX-Improvement"
+    color: "0077B5"
+    description: "Proposal for user experience improvements"
+  
+  - name: "Animation"
+    color: "FFDD00"
+    description: "Animation and motion design"
+  
+  - name: "Mobile-Responsive"
+    color: "7DCDA3"
+    description: "Related to mobile responsiveness"
+
+# Welcome message for new contributors
+firstPR:
+  message: >
+    Hello! 👋 Thank you for contributing to my design project! 
+    Your design contribution is very valuable. I will review your proposal soon.
+    Please use this time to ensure your proposal includes necessary screenshots or prototypes.
+
+# Automatic response on new issues
+newIssue:
+  message: >
+    Thank you for your feedback! 🎨 As a designer, I value your thoughts on visuals and user experience.
+    Please add any screenshots or reference designs that might help understand your suggestion.
+
+# Configuration for profile statistics
+# For use with GitHub README stats
+stats:
+  theme: "radical"
+  show_icons: true
+  count_private: true
+  include_all_commits: true
+  show_owner: true
+  
+# Brand colors
+colors:
+  primary: "#FF61F6"
+  secondary: "#F24E1E"
+  accent: "#0077B5"
+  success: "#7DCDA3"
+  warning: "#FFDD00" 

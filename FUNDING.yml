@@ -1,0 +1,7 @@
+# Support options for your design work
+# Will display a 'Sponsor' button on GitHub profile
+
+github: [your-github-username]
+patreon: your-patreon-username
+ko_fi: your-kofi-username
+custom: ['https://www.buymeacoffee.com/your-username', 'https://paypal.me/your-username'] 
