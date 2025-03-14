@@ -96,7 +96,7 @@ I'm a passionate Full-Stack Developer specializing in the MERN stack. I love bui
 | Categories      | Tools & Skills
 | ----------- | ----------- | 
 | 👩‍💻 Languages     | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| 🧩 Frameworks & Libraries | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
+| 🧩 Frameworks & Libraries | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | ⚡ Database   | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)|
 | 🖍 Design     | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 | 👩‍💻 IDE    | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
@@ -107,40 +107,73 @@ I'm a passionate Full-Stack Developer specializing in the MERN stack. I love bui
 | 🧪 Testing | ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) |
 | 📱 Mobile | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
 
-## 🌟 Featured Projects
+<div style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); padding: 30px; border-radius: 15px; margin: 30px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+  <h2 align="center" style="color: #f5f5f5; margin-bottom: 30px; font-size: 2.5rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+    <img src="https://em-content.zobj.net/thumbs/120/apple/325/sparkles_2728.png" width="30px" style="vertical-align: middle; margin-right: 10px;">
+    Featured Projects
+  </h2>
 
-<div align="center">
-  <a href="https://password-manager-v2-1.onrender.com/login" target="_blank">
-    <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/project1.png" width="400px" alt="Pass-X Password Manager" />
-  </a>
-  <a href="https://celebrated-sprinkles-05c8f0.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/project2.png" width="400px" alt="AgeCalcPro" />
-  </a>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin-top: 20px;">
+    <!-- Project 1 -->
+    <div style="background: rgba(255,255,255,0.05); border-radius: 12px; overflow: hidden; transition: transform 0.3s ease; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
+      <a href="https://password-manager-v2-1.onrender.com/login" target="_blank" style="text-decoration: none; color: inherit;">
+        <div style="position: relative; overflow: hidden; border-radius: 12px 12px 0 0;">
+          <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/project1.png" width="100%" alt="Pass-X Password Manager - Secure credential management application" style="transition: transform 0.5s ease;" />
+          <div style="position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,0.6); color: white; padding: 5px 10px; border-radius: 20px; font-size: 12px;">MERN Stack</div>
+        </div>
+        <div style="padding: 20px;">
+          <h3 style="color: #f5f5f5; margin-top: 0;">Pass-X Password Manager</h3>
+          <p style="color: #ccc; font-size: 14px;">A secure password management application with end-to-end encryption, intuitive UI, and cross-device synchronization.</p>
+          <div style="margin-top: 15px; display: flex; flex-wrap: wrap; gap: 5px;">
+            <span style="background: #61DAFB33; color: #61DAFB; padding: 3px 8px; border-radius: 4px; font-size: 12px;">React</span>
+            <span style="background: #68A06333; color: #68A063; padding: 3px 8px; border-radius: 4px; font-size: 12px;">Node.js</span>
+            <span style="background: #47A24833; color: #47A248; padding: 3px 8px; border-radius: 4px; font-size: 12px;">MongoDB</span>
+            <span style="background: #FF574433; color: #FF5744; padding: 3px 8px; border-radius: 4px; font-size: 12px;">JWT</span>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <!-- Project 2 -->
+    <div style="background: rgba(255,255,255,0.05); border-radius: 12px; overflow: hidden; transition: transform 0.3s ease; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
+      <a href="https://celebrated-sprinkles-05c8f0.netlify.app/" target="_blank" style="text-decoration: none; color: inherit;">
+        <div style="position: relative; overflow: hidden; border-radius: 12px 12px 0 0;">
+          <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/project2.png" width="100%" alt="AgeCalcPro - Bilingual age calculator application" style="transition: transform 0.5s ease;" />
+          <div style="position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,0.6); color: white; padding: 5px 10px; border-radius: 20px; font-size: 12px;">React</div>
+        </div>
+        <div style="padding: 20px;">
+          <h3 style="color: #f5f5f5; margin-top: 0;">AgeCalcPro - Age Calculator</h3>
+          <p style="color: #ccc; font-size: 14px;">A sleek age calculator with bilingual support, precise calculations, and a clean, responsive design for all devices.</p>
+          <div style="margin-top: 15px; display: flex; flex-wrap: wrap; gap: 5px;">
+            <span style="background: #61DAFB33; color: #61DAFB; padding: 3px 8px; border-radius: 4px; font-size: 12px;">React</span>
+            <span style="background: #E34F2633; color: #E34F26; padding: 3px 8px; border-radius: 4px; font-size: 12px;">HTML5</span>
+            <span style="background: #1572B633; color: #1572B6; padding: 3px 8px; border-radius: 4px; font-size: 12px;">CSS3</span>
+            <span style="background: #F7DF1E33; color: #F7DF1E; padding: 3px 8px; border-radius: 4px; font-size: 12px;">JavaScript</span>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <!-- Project 3 -->
+    <div style="background: rgba(255,255,255,0.05); border-radius: 12px; overflow: hidden; transition: transform 0.3s ease; box-shadow: 0 8px 20px rgba(0,0,0,0.2);">
+      <a href="https://regal-liger-1b7b7c.netlify.app/" target="_blank" style="text-decoration: none; color: inherit;">
+        <div style="position: relative; overflow: hidden; border-radius: 12px 12px 0 0;">
+          <img src="https://raw.githubusercontent.com/developerabhi02/developerabhi02/main/project3.png" width="100%" alt="KaryaPath - Task management application" style="transition: transform 0.5s ease;" />
+          <div style="position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,0.6); color: white; padding: 5px 10px; border-radius: 20px; font-size: 12px;">React</div>
+        </div>
+        <div style="padding: 20px;">
+          <h3 style="color: #f5f5f5; margin-top: 0;">KaryaPath - To-Do List</h3>
+          <p style="color: #ccc; font-size: 14px;">A productivity tool for task management with categorization, tracking, and responsive design using local storage.</p>
+          <div style="margin-top: 15px; display: flex; flex-wrap: wrap; gap: 5px;">
+            <span style="background: #61DAFB33; color: #61DAFB; padding: 3px 8px; border-radius: 4px; font-size: 12px;">React</span>
+            <span style="background: #1572B633; color: #1572B6; padding: 3px 8px; border-radius: 4px; font-size: 12px;">CSS3</span>
+            <span style="background: #F7DF1E33; color: #F7DF1E; padding: 3px 8px; border-radius: 4px; font-size: 12px;">LocalStorage</span>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
 </div>
-
-### [Pass-X Password Manager](https://password-manager-v2-1.onrender.com/login)
-A secure password management application built with the MERN stack. Features include:
-- End-to-end encryption for maximum security
-- Intuitive user interface with responsive design
-- Password generation and strength analysis
-- Cross-device synchronization
-- **Tech Stack**: React, Node.js, Express, MongoDB, JWT Authentication
-
-### [AgeCalcPro - Age Calculator](https://celebrated-sprinkles-05c8f0.netlify.app/)
-A sleek age calculator application with bilingual support:
-- Precise calculation of age in years, months, and days
-- Bilingual interface (English and Hindi)
-- Responsive design for all devices
-- Clean, modern UI with intuitive controls
-- **Tech Stack**: HTML, CSS, JavaScript, React
-
-### [KaryaPath - To-Do List](https://regal-liger-1b7b7c.netlify.app/)
-A productivity tool for task management:
-- Task categorization and priority setting
-- Completion tracking with visual indicators
-- Responsive design for desktop and mobile
-- Local storage for persistent data
-- **Tech Stack**: React, CSS3, LocalStorage API
 
 ## 📊 Development Workflow
 
