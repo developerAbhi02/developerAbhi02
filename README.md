@@ -1,7 +1,12 @@
 # <div align="center">
-  <div style="background: linear-gradient(to right, #4C84FF, #00C6FB); padding: 15px; border-radius: 15px; margin-bottom: 20px; display: inline-block;">
-    <span style="font-size: 40px; font-weight: 800; color: white; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4);">👋 Hi there, I'm Abhishek Kumar Gupta</span>
-  </div>
+  <h1>
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px">
+    <span style="background: linear-gradient(to right, #4C84FF, #00C6FB); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 40px; font-weight: 800;">Abhishek Kumar Gupta</span>
+  </h1>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=4C84FF&center=true&vCenter=true&random=false&width=800&height=80&lines=Hi+there!+I'm+Abhishek;MERN+Stack+Developer;Building+Digital+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 <div align="center">
