@@ -1,0 +1,62 @@
+name: Profile Metrics Generator
+
+on:
+  # Run automatically every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
+  # Or manually trigger workflow
+  workflow_dispatch:
+
+jobs:
+  generate-github-metrics:
+    name: GitHub Metrics and Portfolio Update
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # Checkout the repository
+      - uses: actions/checkout@v3
+
+      # Basic metrics
+      - name: Basic Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          config_timezone: Asia/Kolkata
+          plugin_lines: yes
+          plugin_languages: yes
+          plugin_languages_details: bytes-percentage, percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          
+      # Pinned repositories for projects
+      - name: Pinned Projects
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.repository.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          template: repository
+          repo: developerabhi02/password-manager
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_projects: yes
+          plugin_projects_limit: 4
+          
+      # Development related activities
+      - name: Activity Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: activity
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: B 
