@@ -84,7 +84,7 @@ I'm a passionate Full-Stack Developer with expertise in the MERN stack. I transf
 
 ---
 
-### ✅ KaryaPath
+### ✅ TASKBELL
 
 ```
 📋 TASK MANAGEMENT & ORGANIZATION
@@ -96,7 +96,7 @@ I'm a passionate Full-Stack Developer with expertise in the MERN stack. I transf
 ![LocalStorage](https://img.shields.io/badge/-LocalStorage-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[View Project →](https://regal-liger-1b7b7c.netlify.app/)
+[View Project →](https://taskbell.netlify.app/)
 
 </div>
 
